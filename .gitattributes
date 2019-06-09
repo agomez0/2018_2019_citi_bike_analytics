@@ -1,0 +1,2 @@
+bike_trips.csv filter=lfs diff=lfs merge=lfs -text
+riders.csv filter=lfs diff=lfs merge=lfs -text
