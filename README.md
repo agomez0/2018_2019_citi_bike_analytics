@@ -28,11 +28,11 @@ Tableau Public.
 
 * The top ten/bottom ten end stations
 
-* Comparing total pass purchases between 2018 and 2019 for the months of Jan-March 
+* Comparison of total pass purchases between 2018 and 2019 for the months of Jan-March 
 
 * Gender rideshare
 
-* The change in female ridership from 2018-2019
+* Change in female ridership from 2018-2019
 
 * Average trip duration
 
