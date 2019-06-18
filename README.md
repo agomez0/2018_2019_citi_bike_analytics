@@ -11,8 +11,9 @@ This is an analysis on the [Citi Bike Data](https://www.citibikenyc.com/system-d
 * [Ridership and Membership Data (csv files)](Resources/RidershipandMembershipData)
 * data_cleaning.ipynb - Script to concatenate all the individual bike trip history files and ridership files
 
-### Program Used:
-Tableau Public.
+### Programs Used:
+* Tableau
+* Python
 
 ### Analytics Explored:
 
