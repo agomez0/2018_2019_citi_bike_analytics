@@ -43,6 +43,20 @@ This is an analysis on the [Citi Bike Data](https://www.citibikenyc.com/system-d
 
 * Maps of popular start and end stations
 
+![passpurchases](Images/passpurchases.png)
+
+![peakhours](Images/peakhours.png)
+
+![trips](Images/trips.png)
+
+![gender](Images/gender.png)
+
+![popularstations](Images/popularstations.png)
+
+![topstations](Images/topstations.png)
+
+
+
 
 
 
